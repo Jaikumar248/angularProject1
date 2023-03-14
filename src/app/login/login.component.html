@@ -1,0 +1,21 @@
+<mat-card>
+    <mat-card-header>
+        <h2>User Login</h2>
+    </mat-card-header>
+    <mat-card-content>
+        <form class="example-form" [formGroup]="loginForm">
+            <mat-form-field class="example-full-width">
+              <mat-label>User Name: </mat-label>
+              <input matInput formControlName="username">
+            </mat-form-field><br>
+    
+              <mat-form-field class="example-full-width">
+                <mat-label>Password: </mat-label>
+                <input type="password" matInput formControlName="password">
+              </mat-form-field><br>
+            
+             <button mat-raised-button color="primary">submit</button> |
+             <a routerLink="/register" mat-raised-button color="accent">new User?</a>
+          </form>
+    </mat-card-content>
+  </mat-card>

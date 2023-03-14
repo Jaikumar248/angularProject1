@@ -1,0 +1,62 @@
+{
+  "posts": [
+  
+    {
+      "id": "jaikumar",
+      "name": "jai",
+      "password": "jaikumar",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "jaikumar4",
+      "name": "jai",
+      "password": "jaikumar",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "jaikumar2",
+      "name": "jai",
+      "password": "jaikumar",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "jaikumar",
+      "name": "jai",
+      "password": "jaikumar",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "jaikumar",
+      "name": "jai",
+      "password": "jaikumar",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "jaikumar",
+      "name": "jai",
+      "password": "jaikumar",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    }
+  ]
+
+ 
+  
+}
